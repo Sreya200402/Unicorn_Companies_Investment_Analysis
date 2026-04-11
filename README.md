@@ -52,14 +52,14 @@ To build an interactive Power BI dashboard that helps investors make data-driven
 
 ## 📊 Dashboard Preview
 
-![Unicorn Dashboard](images/dashboard.png)
+![Unicorn Dashboard](dashboard_image/dashboard.png)
 
 ---
 
 ## 📄 Project Documentation
 
-Detailed explanation available in **project_summary.pdf**
-
+Click here to view detailed project explanation:  
+👉 [Project Summary](data/project_summary.pdf)
 ---
 
 ## 🚀 Conclusion
@@ -76,3 +76,5 @@ This project demonstrates how data analytics can be used to evaluate unicorn com
 * Interactive Power BI dashboard
 
 ---
+
+
