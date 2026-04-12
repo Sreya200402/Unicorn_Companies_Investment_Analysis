@@ -57,9 +57,8 @@ To build an interactive Power BI dashboard that helps investors make data-driven
 ---
 
 ## 📄 Project Documentation
+View details: [Project Summary](data/project_summary.pdf)
 
-Click here to view detailed project explanation:  
-👉 [Project Summary](data/project_summary.pdf)
 ---
 
 ## 🚀 Conclusion
