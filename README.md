@@ -78,12 +78,14 @@ The dashboard enables users to explore company performance, compare industries, 
 ---
 
 ## 📊 Dashboard
-👉 [View Full Dashboard](Dashboard/unicorn_dashboard.pdf)
 
----
+👉 [Download Power BI File (.pbix)](dashboard/unicorn_dashboard.pbix)  
+👉 [Download Template (.pbit)](dashboard/dashboard_template.pbit)
+
+💡 Open the .pbix file in Power BI Desktop to explore interactive insights.
 
 ## 📸 Dashboard Preview
-![Unicorn Dashboard](dashboard_image/dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
