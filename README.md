@@ -77,11 +77,6 @@ The dashboard enables users to explore company performance, compare industries, 
 
 ---
 
-## 📊 Dashboard
-
-👉 [Download Template (.pbit)](dashboard/dashboard_template.pbit)
-
-
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard/dashboard.png)
 
